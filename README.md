@@ -6,7 +6,7 @@ Math and Computer Science undergraduate at Lee University passionate about helpi
 
 🔭 I’m currently working on data analytics with Power BI
 
-🌱 I’m currently learning game development with Unity, Docker, Python
+🌱 I’m currently learning game development with Unity, Docker, Cybersecurity with TryHackMe
 
 💬 Ask me about gaming, art, and data science
 
