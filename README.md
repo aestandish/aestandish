@@ -12,4 +12,4 @@ Math and Computer Science undergraduate at Lee University passionate about helpi
 
 ✨ I've been coding for 2 years, looking to learn more!
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/addie-standish), addie.is.awesome#9265 (Discord)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/addie-standish), addie.is.awesome (Discord)
