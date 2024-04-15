@@ -1,5 +1,4 @@
-### About Me :)
-
+### About Me ♡
 
 
 Math and Computer Science undergraduate at Lee University passionate about helping others understand the beauty and creativity of math and computer science. Currently working as a data scientist at TVA with experience in R, C++, Java, and Python. I have a background in data science and data visualization in Python using Pandas, NumPy, Matplotlib, Seaborn, and more. I love to learn new things and would love to work on projects using SQL, machine learning, and R. Graduating in May 2025.
